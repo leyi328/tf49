@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <!-- <item>
+        <menu>
+            <item></item>
+        </menu>
+    </item>-->
+    <item android:id="@+id/save"
+          android:title="保存"
+          android:icon="@drawable/image1">
+    </item>
+    <item android:id="@+id/delete"
+        android:title="删除"
+        android:icon="@drawable/image2">
+    </item>
+    <item android:id="@+id/sao"
+        android:title="扫一扫"
+        android:icon="@drawable/image3">
+    </item>
+</menu>

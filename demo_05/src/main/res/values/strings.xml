@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Demo_05</string>
+
+    <string-array name="res">
+        <item>我爱你长春0</item>
+        <item>我爱你长春1</item>
+        <item>我爱你长春2</item>
+        <item>我爱你长春3</item>
+        <item>我爱你长春4</item>
+        <item>我爱你长春5</item>
+        <item>我爱你长春6</item>
+        <item>我爱你长春7</item>
+        <item>我爱你长春8</item>
+        <item>我爱你长春9</item>
+        <item>我爱你长春10</item>
+    </string-array>
+
+
+</resources>
